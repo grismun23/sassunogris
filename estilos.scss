@@ -1,0 +1,73 @@
+.navbar{
+    background-color: darkcyan;
+}
+.jumbotron{
+background-image: url(./images/ima_portada.jpg);
+background-size: cover;
+    background-position: center;
+    height: 550px;
+    color: #ffffff;
+    border-radius: 0px;
+    margin-bottom: 0;
+}
+.jumbotron p{
+    font-size: 24px;
+    color: #F9F6E4;
+    animation-direction:initial;
+    animation-duration: 3s;
+}
+h2{
+    text-align: center;
+    background-color: #F9D9C0;
+    color: #F28775;
+    padding: 10px;
+    margin-bottom: 0;
+    animation-name: example;
+    animation-duration: 4s;
+}
+
+@keyframes example {
+  from {background-color: rgb(255, 255, 255);}
+  to {background-color: #F9D9C0;}
+}
+.aboutme{
+    height: 800px;
+    width: 100%;
+    background: #F28775;
+    margin-bottom: 0;
+    margin-top: 0;
+}
+.row{
+    height: 800px;
+}
+.afoto{
+background-image: url(./images/Foto\ ilse.jpg);
+background-size: cover;
+}
+.atexto{
+    text-align: center;
+    padding: 150px;
+    font-size: 24px;
+    color: #F9F6E4;
+}
+.carousel-inner{
+    position: center;
+    padding: 40px;
+    text-align: center;
+}
+.footer{
+    height: 100px;
+    background-color: #F28775;
+    width: 100%;
+    margin-bottom: 0;
+    text-align: center;
+    color: #ffffff;
+}
+.redes{
+    font-size: 20px;
+    letter-spacing: 10px;
+}
+.textofooter{
+    text-align: center;
+    padding-right: 30px;
+}
