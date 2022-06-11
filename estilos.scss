@@ -9,12 +9,13 @@ background-size: cover;
     color: #ffffff;
     border-radius: 0px;
     margin-bottom: 0;
-}
-.jumbotron p{
+    
+    .jumbotron p{
     font-size: 24px;
     color: #F9F6E4;
     animation-direction:initial;
     animation-duration: 3s;
+    }
 }
 h2{
     text-align: center;
@@ -62,12 +63,13 @@ background-size: cover;
     margin-bottom: 0;
     text-align: center;
     color: #ffffff;
+
+
+  .textofooter{
+     text-align: center;
+     padding-right: 30px;
+    }
 }
 .redes{
     font-size: 20px;
     letter-spacing: 10px;
-}
-.textofooter{
-    text-align: center;
-    padding-right: 30px;
-}
